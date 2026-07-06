@@ -22,11 +22,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
+1. Azure Subscription
+   - Active Microsoft Azure subscripition with permissions to create resources
+2. Azure Virtual Machine
+   -Windows 10, w/ 4 vCPUS
+3. Setup Virtual Machine
+4. Log into Virtual Machine
+5. When inside of Virtual Machine Download osTicket-Installation-Files.zip and Unzip it to your Desktop.
 
 <h2>Installation Steps</h2>
 
